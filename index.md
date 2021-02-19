@@ -75,7 +75,7 @@ Monash Competitive Programming Club
 
 ##### (i) The President
 ##### (ii) The Vice President
-##### (iii) Treasurer
+##### (iii) The Treasurer
 ##### (iv) The Secretary
 
 ### 3.4. Duties
