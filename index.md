@@ -124,7 +124,7 @@ Monash Competitive Programming Club
 
 ### 3.6 Co-option
 
-#### 3.6.1. In the event that an executive team member dceases to hold office prior to the conclusion of their ordinary term, or a position remains vacant after an election, the President may co-opt an eligible person to hold the vacant position. If the President position is vacant, the Vice-President becomes an acting President.
+#### 3.6.1. In the event that an executive team member deceases to hold office prior to the conclusion of their ordinary term, or a position remains vacant after an election, the President may co-opt an eligible person to hold the vacant position. If the President position is vacant, the Vice-President becomes an acting President.
 
 #### 3.6.2. A person co-opted as an executive member shall ordinarily hold office from the day of co-option to the day of the next General Meeting.
 
