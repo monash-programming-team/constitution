@@ -52,7 +52,7 @@ Monash Competitive Programming Club
 ##### (i) Act as a community hub for fellow members to form teams for competitions, run by the club or otherwise.
 ##### (ii) Provide information on ongoing competitions
 ##### (iii) Provide useful reference for competition practice
-##### (iv) Run contests
+##### (iv) Run traditional contests including ICPC/IEEEXtreme and create new challenges/contests
 ##### (v) Facilitate member entry into competitions
 
 ## 3. The Executive
@@ -77,7 +77,6 @@ Monash Competitive Programming Club
 ##### (ii) The Vice President
 ##### (iii) The Treasurer
 ##### (iv) The Secretary
-##### (v) The Academic Representative
 
 ### 3.4. Duties
 
@@ -107,14 +106,9 @@ Monash Competitive Programming Club
 ##### (iii) Ensure an up-to-date register of the executive team is maintained
 ##### (iv) Perform other duties, as the team may resolve
 
-#### 3.4.5. The duties of the Academic Representative shall be to
-
-##### (i) Attend Executive and General Meetings
-##### (ii) Perform other duties, as the team may resolve
-
 ### 3.5 Eligibility
 
-#### 3.5.1. All members of the club are eligible to be any member of the executive team, with the exception of the Academic Representative position, which must be taken by a member employed by the university.
+#### 3.5.1. All members of the club are eligible to be any member of the executive team, with the exception of the Treasurer position, which must be taken by a member employed by the university.
 
 #### 3.5.2. Members of the club can fulfill multiple roles of the executive team simultaneously.
 
@@ -130,9 +124,9 @@ Monash Competitive Programming Club
 
 ### 3.6 Co-option
 
-#### 3.6.1. In the event that an executive team member dceases to hold office prior to the conclusion of their ordinary term, or a position remains vacant after an election, the President may co-opt an eligible person to hold the vacant position. If the President position is vacant, the Vice-President becomes an acting President.
+#### 3.6.1. In the event that an executive team member deceases to hold office prior to the conclusion of their ordinary term, or a position remains vacant after an election, the President may co-opt an eligible person to hold the vacant position. If the President position is vacant, the Vice-President becomes an acting President.
 
-#### 3.6.2. A pseron co-opted as an executive member shall ordinarily hold office from the day of co-option to the day of the next General Meeting.
+#### 3.6.2. A person co-opted as an executive member shall ordinarily hold office from the day of co-option to the day of the next General Meeting.
 
 ## 4. General Meetings
 
